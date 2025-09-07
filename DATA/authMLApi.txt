@@ -1,0 +1,15 @@
+AUTENTICAÇÃO USER PRINCIPAL - GUILHERME GALDINO
+id_app: 1677739876131799
+chave secreta: 0MQ9vxQIU6TKNmXwgRNaGF2k9wrgAN0f
+link: https://auth.mercadolivre.com.br/authorization?response_type=code&client_id=1677739876131799&redirect_uri=https://guigaldino.github.io/Aplicacao-Teste/FrontEnd/index.html
+TG = TG-68b9fe60b72f3f000191265b-1533497939
+====================================================================================================================
+
+
+
+AUTENTITAÇÃO USER TESTE - ID = 2676435480 || TESTUSER1541049984
+
+TG-68bde5955e40cb00011da9dc-2676435480TG-68bde5955e40cb00011da9dc-2676435480
+
+
+
